@@ -1,0 +1,23 @@
+.body {
+  background-image: url('how-to-create-gradient-article.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  text-align: center;
+}
+
+.heading001{
+  font-size:48px;
+  color: #F4E04D;
+  font-family: Ravie Regular;
+}
+h2{
+  font-size:33px;
+  color: #F4E04F;
+}
+
+.note{
+  font-size:25px;
+  color: white;
+  margin: 10px;
+}
